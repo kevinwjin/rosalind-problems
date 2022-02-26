@@ -1,2 +1,2 @@
-# rosalind-problems
-Responses to problems provided by Rosalind, a bioinformatics learning platform.
+# Rosalind Problems
+Responses, implemented in Jupyter Notebook, to problems provided by [Rosalind](https://rosalind.info/), a bioinformatics learning platform. For the purpose of self-learning and career preparation.
